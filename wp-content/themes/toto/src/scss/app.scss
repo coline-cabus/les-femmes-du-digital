@@ -1,0 +1,17 @@
+@import "variable";
+
+@import "bootstrap";
+
+
+// PAGES
+@import "pages/portrait.scss";
+@import "pages/single.scss";
+@import "pages/blog.scss";
+@import "pages/projet.scss";
+@import "pages/projets.scss";
+@import "pages/profil.scss";
+@import "pages/front-page.scss";
+@import "pages/contact.scss";
+
+// Composants
+@import "components/text.scss";

@@ -1,0 +1,77 @@
+.accueil {
+}
+
+.jumbotron {
+  height: 50vh;
+  padding-bottom: 100px;
+  padding-top: 100px;
+  margin-bottom: 100px;
+
+  .container-fluid {
+    max-width: 80%;
+
+    .jumbotron h1 {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+    }
+
+    .jumbotron p {
+      font-size: 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .hero-image img {
+
+    }
+
+    .titre-jumbotron {
+      margin-left: 150px;
+    }
+  }
+}
+
+.custom-container {
+margin-bottom: 200px;
+  .titre-hero {
+    margin-bottom: 25px;
+  }
+
+  .content-hero {
+    margin-bottom: 50px;
+  }
+
+  .card-container {
+    max-width: 100%;
+    .card {
+      border: inherit;
+
+      .colored-bg {
+
+      }
+    }
+    .card1{
+      margin-right: 25px;
+    }
+    .card2{
+      margin-left: 25px;
+    }
+  }
+}
+
+.container{
+  .titre-projet{
+margin-bottom: 25px;
+  }
+  .content-projet{
+margin-bottom: 50px;
+  }
+}
+.container-article{
+  margin-bottom: 100px;
+  .titre-article{
+    margin-bottom: 25px;
+  }
+  .content-article{
+    margin-bottom: 50px;
+  }
+}

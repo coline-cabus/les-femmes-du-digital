@@ -1,0 +1,21 @@
+
+.profil {
+padding-top: 200px;
+  padding-bottom: 100px;
+}
+.titre-projet{
+  padding-bottom: 50px;
+}
+.container-projet{
+  margin-bottom: 100px;
+  .card-projet{
+    height: 400px;
+    width: 400px;
+    border: inherit;
+    .img-projet{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+}
